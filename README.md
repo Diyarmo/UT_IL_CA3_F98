@@ -36,4 +36,6 @@ Train an agent to learn play MountainCar-v0 from gym library.
 
 Value Iteration and SARSA algorithms are implemented and tested.
 
-![Alt Text](Hands-on #4/MountainCar.gif)
+
+### Trained Mountain Car Agent:
+![Trained Mountain Car Agent.](MountainCar.gif)
